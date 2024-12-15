@@ -7,12 +7,11 @@ Welcome to the **Indian Agriculture EDA Project**, a comprehensive analysis of a
 ## 📂 Project Structure
 
 ### **Data Source**
-The data for this project has been sourced from trusted public datasets (e.g., Kaggle, government portals). The dataset covers agricultural metrics like production, yield, and crop-specific data across various states of India.
+The data for this project has been sourced from trusted public datasets (from `Kaggle`). The dataset covers agricultural metrics like production, yield, and crop-specific data across various states of India.
 
 ### **Data Cleaning**
 Data cleaning and preprocessing steps included:
 - Handling missing values by either filling them contextually or dropping rows/columns.
-- Standardizing column names for consistency.
 - Removing duplicates and ensuring uniformity in state names and crop classifications.
 
 ### **Data Visualization**
