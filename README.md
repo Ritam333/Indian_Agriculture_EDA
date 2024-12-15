@@ -1,3 +1,7 @@
+
+![Alt text](image_path)
+
+
 # Indian Agriculture Exploratory Data Analysis (EDA) Project
 
 Welcome to the **Indian Agriculture EDA Project**, a comprehensive analysis of agricultural trends in India. This project explores production, yield, and other key agricultural insights across different states and time periods, highlighting India's agricultural landscape.
