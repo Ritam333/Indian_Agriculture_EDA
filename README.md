@@ -1,5 +1,5 @@
 
-![Alt text]([image_path](https://github.com/Ritam333/Indian_Agriculture_EDA/blob/main/a9dd46a1b982b1605e311936aef6aab0.gif))
+![Alt text]([https://github.com/Ritam333/Indian_Agriculture_EDA/blob/main/a9dd46a1b982b1605e311936aef6aab0.gif])
 
 
 # Indian Agriculture Exploratory Data Analysis (EDA) Project
